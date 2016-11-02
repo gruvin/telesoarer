@@ -1,7 +1,7 @@
 # TeleSoarer
 ## A Lost Model Alarm &amp; Variometer for RC Slope Soarer / Sailplanes
 
-This hereis a lost model alarm, recently upgraded to include analogue vario output, for use with Fr-Sky telemetry and Taranis radio.
+This here is a lost model alarm, recently upgraded to include analogue vario output, for use with Fr-Sky telemetry and Taranis radio. I use it for slope soaring. The vario in this case is really just for fun. I imagine it to be more useful in a thermalling a sailplane ... and just as fun.
 
 I already had the lost model alarm portion from my [lostmodel project](https://github.com/gruvin/lostmodel), here on GitHub. 
 So, I took that, upgraded the ATmega88P an ATmega328P to get more Flash and changed the firmware from GCC/Makefile to Arduino IDE, just to make it a little easier for others, really. (An Atmel programmer is still required, since I didn't include the extra few components to allow the Arduino IDE uploader thingy to work. Space savings, you know! ;-)
