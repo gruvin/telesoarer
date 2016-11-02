@@ -7,7 +7,8 @@ For now, let's just say that this is a lost model alarm, per the title above and
 
 Here's a KiCAD PCB rendering ... because they're just so cute ...
 
-<img src="img/telesoarer_v0.9.png">
+<img src="img/kicad_render.png">
+<img src="img/kicad_size.png">
 
 The board is about 44.2 x 16mm -- though the pizeo section can be chopped off and remote mounted, to give a board just 26x16mm. In fact, the entire point of this little project was to get a nice small footprint, without all the crazy wires needed for off-the-shelf Fr-Sky telemetry modules, for example. This thing is tiny and a welcomed space saver.
 
