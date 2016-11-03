@@ -88,7 +88,7 @@ F 1 "PZ_OUT" H 9600 5750 60  0000 C CNN
 F 2 "footprints:PIN_ARRAY_2X1" H 9500 5450 60  0001 C CNN
 F 3 "" H 9500 5450 60  0001 C CNN
 	1    9500 5450
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L GND-RESCUE-telesoarer-mlf #PWR03
@@ -875,4 +875,6 @@ Wire Wire Line
 	8400 5600 8400 5450
 Connection ~ 8400 5450
 Connection ~ 7200 5600
+Text Notes 9250 6000 0    60   ~ 0
+WRONG PART SYMBOL\nQuartz Wafer NOT beeper
 $EndSCHEMATC
