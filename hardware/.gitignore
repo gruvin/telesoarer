@@ -1,3 +1,5 @@
 # KiCAD component libraries are not from C source! ;-)
 !*.lib
+*.bck
+
 
