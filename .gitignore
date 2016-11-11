@@ -4,4 +4,4 @@
 # KiCAD
 *.bak
 *-bak
-
+_autosave-*
