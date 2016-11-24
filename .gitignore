@@ -3,6 +3,6 @@
 
 # KiCAD
 *.bak
-#*.bck
+*.bck
 *-bak
 _autosave-*

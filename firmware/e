@@ -1,0 +1,10 @@
+mvim -p \
+Src/main.c \
+Inc/main.h \
+Src/spi_sm.c \
+Inc/spi_sm.h \
+Src/ms5611.c \
+Inc/ms5611.h \
+Src/lost_sm.c \
+Inc/lost_sm.h \
+Src/stm32f1xx_it.c \
