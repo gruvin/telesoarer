@@ -1,0 +1,3 @@
+[submodule "hardware/share"]
+	path = hardware/share
+	url = git@github.com:gruvin/kicad-share.git
