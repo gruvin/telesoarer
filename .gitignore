@@ -6,3 +6,7 @@
 *.bck
 *-bak
 _autosave-*
+
+# build tools
+.dep
+firmware/build
