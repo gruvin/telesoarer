@@ -3,7 +3,7 @@
   (general
     (links 120)
     (no_connects 0)
-    (area 25.349199 25.349199 75.742801 44.500801)
+    (area 16.096599 19.6466 76.136501 49.2874)
     (thickness 1.6)
     (drawings 33)
     (tracks 593)
@@ -318,13 +318,13 @@
     )
   )
 
-  (module footprints:ZIF_FPC15 (layer F.Cu) (tedit 583A167B) (tstamp 5837D1A9)
+  (module footprints:ZIF_FPC15 (layer F.Cu) (tedit 583B9FD6) (tstamp 5837D1A9)
     (at 52.324 37.719 90)
     (path /581D6BFC)
     (fp_text reference P3 (at -5.969 0 180) (layer F.SilkS)
       (effects (font (size 0.762 0.762) (thickness 0.127)))
     )
-    (fp_text value "OLED 0.91\" 128x32" (at 17.145 -0.381 180) (layer F.Fab) hide
+    (fp_text value "OLED 0.91\" 128x32" (at 17.4625 -0.3175 180) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 6 4.5) (end -6 4.5) (layer F.SilkS) (width 0.15))
