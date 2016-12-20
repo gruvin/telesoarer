@@ -15,6 +15,6 @@ Here's a KiCAD PCB rendering ... because they're just so damned cute ...
 <img src="img/kicad_render.png">
 <img src="img/kicad_size.png">
 
-The board is about 37x16mm -- though the pizeo section can be chopped off and remote mounted, to give a board just 23x16mm.
+The pizeo section can be chopped off and remote mounted. An OLED display goes on the back.
 
-In fact, the entire point of this project was to obtain a nice small footprint, while doing away with all the clunky wires needed for off-the-shelf Fr-Sky telemetry modules, for example. This thing is tiny and a welcomed space saver.
+The point of this project was to obtain a nice small footprint, while doing away with all the clunky wires needed for off-the-shelf Fr-Sky telemetry modules (for example). This thing is tiny and will be a welcomed space saver.
