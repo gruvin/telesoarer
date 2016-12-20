@@ -1,0 +1,6 @@
+#!/bin/bash
+DEVICE=STM32F103CB
+HEX="build/telesoarer.hex"
+
+echo -en "power on\nconnect\nh\nloadfile ${HEX}\nr\ngo\nq" | JLinkExe -Device ${DEVICE} -If SWD -Speed 6000 
+
